@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="docs/05-miniapp.mp4">
-    <img src="docs/05-miniapp-preview.gif" alt="Демо открытия mini app (клик для mp4)" width="520" />
+    <img src="docs/05-miniapp-preview.gif" alt="Демо открытия mini app (клик для mp4)" width="900" />
   </a>
 </p>
 
