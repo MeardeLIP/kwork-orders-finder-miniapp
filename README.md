@@ -31,10 +31,12 @@
 Видео открытия mini app и перехода в интерфейс:
 
 <p align="center">
-  <video src="docs/05-miniapp.mp4" controls width="520"></video>
+  <a href="docs/05-miniapp.mp4">
+    <img src="docs/05-miniapp-preview.gif" alt="Демо открытия mini app (клик для mp4)" width="520" />
+  </a>
 </p>
 
-Если встроенный плеер не отрисовался в вашем клиенте, откройте файл напрямую: [`docs/05-miniapp.mp4`](docs/05-miniapp.mp4).
+Клик по превью открывает оригинальное видео: [`docs/05-miniapp.mp4`](docs/05-miniapp.mp4).
 
 ## 🖼️ Скриншоты интерфейса
 
