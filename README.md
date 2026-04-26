@@ -26,18 +26,22 @@
 | Интеграции | Kwork (парсинг/поиск), AI-помощник для откликов |
 | Деплой | Бот + mini app связка |
 
+## 🎬 Видео мини‑аппы
+
+Видео открытия mini app и перехода в интерфейс:
+
+<p align="center">
+  <video src="docs/05-miniapp.mp4" controls width="520"></video>
+</p>
+
+Если встроенный плеер не отрисовался в вашем клиенте, откройте файл напрямую: [`docs/05-miniapp.mp4`](docs/05-miniapp.mp4).
+
 ## 🖼️ Скриншоты интерфейса
 
 <p align="center"><img src="docs/01-menu.png" alt="Лента заказов — меню без активного избранного" width="520" /></p>
 <p align="center"><img src="docs/02-menu-favorites.png" alt="Лента заказов — меню с активным избранным" width="520" /></p>
 <p align="center"><img src="docs/03-ai-prompt.png" alt="Экран Промт ИИ для генерации откликов" width="520" /></p>
 <p align="center"><img src="docs/04-start.png" alt="Экран /start и запуск mini app" width="520" /></p>
-
-## 🎬 Видео мини‑аппы
-
-Видео открытия mini app и перехода в интерфейс:
-
-- [`docs/05-miniapp.mp4`](docs/05-miniapp.mp4)
 
 ## Исходный код
 
